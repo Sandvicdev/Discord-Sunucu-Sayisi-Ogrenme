@@ -78,7 +78,7 @@ npm install axios chalk discord.js discord.js-selfbot-v13 inquirer readline-sync
 *Ücretli Altyapı, Bot, Kod, Yazılım vb. İçin DM Üzerinden Ulaşabilirsiniz.*
 
 <h2 align="center">
- <a href="https://discord.com/users/754497550483980328"><img  width="400px" src="https://lanyard.kyrie25.dev/api/754497550483980328?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Bittim+Gözlerine"></a>
+ <a href="https://discord.com/users/754497550483980328"><img  width="400px" src="https://lanyard.kyrie25.dev/api/1316187326246027305?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idle"></a>
 
 
 ## 🌐 Kişisel Websitem
